@@ -5,8 +5,7 @@
 
 ---
 
- [📩 E-mail](mailto:saadferozee%2Bgithub@gmail.com)
-  &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [𝗳 FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
+ [📩 E-mail](mailto:saadferozee%2Bgithub@gmail.com) &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [𝗳 FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
 
 ---
 
