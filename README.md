@@ -1,12 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
-<!-- <img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" /> -->
 
 # I'm Saad Ferozee
 
 ---
 
- [📩 E-mail](saadferozee+github@gmail.com)  &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [𝗳 FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
+ [📩 E-mail](mailto:saadferozee+github@gmail.com)  &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [𝗳 FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
 
 ---
 
@@ -41,11 +40,11 @@
 **Progress so far:**
 
 ```text
-HTML:     ██████████████░░░░░░ 70%
-CSS:      █████████████░░░░░░░ 65%
-Tailwind:     ███████████░░░░░ 60%
-JavaScript:    ████████░░░░░░░ 45%
-Git & GitHub:   █████████░░░░░ 55%
+HTML:           ██████████████░░░░░░ 70%
+CSS:            █████████████░░░░░░░ 65%
+Tailwind:       ████████████░░░░░░░░ 60%
+JavaScript:     █████████░░░░░░░░░░░ 45%
+Git & GitHub:   ███████████░░░░░░░░░ 55%
 ```
 
 ---
@@ -59,6 +58,7 @@ Git & GitHub:   █████████░░░░░ 55%
 | More Coming... | I'm actively learning and updating! |  |
 
 ---
+ <img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" /> 
 
 ## 🧮 GitHub Stats
 
