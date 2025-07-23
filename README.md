@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
-<img src="https://avatars.githubusercontent.com/u/151106159?v=4" width="150" alt="Saad's Avatar" align="right" />
+<img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" />
 
 ---
 
