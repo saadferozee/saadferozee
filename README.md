@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
-<img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" />
+<!-- <img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" /> -->
 
 # I'm Saad Ferozee
 
