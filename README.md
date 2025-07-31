@@ -5,7 +5,7 @@
 
 ---
 
- [📩 E-mail](mailto:saadferozee%2Bgithub@gmail.com) &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [𝗳 FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
+ [📩 E-mail](mailto:saadferozee%2Bgithub@gmail.com) &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [__𝗳__ FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
 
 ---
 
@@ -37,13 +37,13 @@
 - 🛠️ Git & GitHub
 - 🖥️ Visual Studio Code, Chrome DevTools
 
-**Progress so far:**
+**Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I working on it)_ </sub>
 
 ```text
 HTML:           ██████████████░░░░░░ 70%
 CSS:            █████████████░░░░░░░ 65%
-Tailwind:       ████████████░░░░░░░░ 60%
-JavaScript:     █████████░░░░░░░░░░░ 45%
+Tailwind:       ███████░░░░░░░░░░░░░ 35%
+JavaScript:     ██████░░░░░░░░░░░░░░ 30%
 Git & GitHub:   ███████████░░░░░░░░░ 55%
 ```
 
