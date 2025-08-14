@@ -68,8 +68,8 @@ Git & GitHub:   ███████████░░░░░░░░░ 55%
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADFEROZEE&repo=PH_assignment_02&theme=radical" height="200px" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
 
   <!-- Row 2: Stats + Streak -->
-  <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" height="200px" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADFEROZEE&show_icons=true&theme=radical" height="200px" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
+  <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" height="auto" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAADFEROZEE&show_icons=true&theme=radical" height="auto" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
 
   <!-- Row 3: Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
