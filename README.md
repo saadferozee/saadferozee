@@ -64,12 +64,12 @@ Git & GitHub:   ███████████░░░░░░░░░ 55%
 <div align="center">
  
   <!-- Row 1: Top Languages + Most Used Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=tokyonight" height="200px" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADFEROZEE&repo=PH_assignment_02&theme=radical" height="200px" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=tokyonight" width="38.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADFEROZEE&repo=PH_assignment_02&theme=radical" width="60%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 
   <!-- Row 2: Stats + Streak -->
-  <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" height="160px" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADFEROZEE&show_icons=true&theme=radical" height="160px" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
+  <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="51%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAADFEROZEE&show_icons=true&theme=radical" width="48%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
 
   <!-- Row 3: Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
