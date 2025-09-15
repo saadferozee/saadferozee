@@ -53,6 +53,7 @@ Git & GitHub:   ███████████░░░░░░░░░ 55%
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
+| Mock NGO Website | Basic functionalities in a website using Javascript | [Live Site](https://green-world-by-ferozee-ph-assignment-06.surge.sh/) |
 | E-Commerce Website | Basic layout and responsive web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_10/) |
 | Mock Portfolio | Basic layout of a Portfolio web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_05/) |
 | More Coming... | I'm actively learning and updating! |  |
