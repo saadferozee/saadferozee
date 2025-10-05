@@ -37,7 +37,7 @@
 - 🛠️ Git & GitHub
 - 🖥️ Visual Studio Code, Chrome DevTools
 
-**Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I continuously learning on this.)_ </sub>
+**Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I am continuously learning ...)_ </sub>
 
 ```text
 HTML:           ██████████████████░░ 90%
