@@ -127,10 +127,6 @@ Git & GitHub:   █████████████░░░░░░░ 65%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 
 <!-- Row 2: Stats + Streak -->
-
-<div align="center">
-
-<!-- Row 2: Stats + Streak -->
 <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadferozee&show_icons=true&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
 
@@ -155,13 +151,8 @@ Git & GitHub:   █████████████░░░░░░░ 65%
 - 💼 [LinkedIn](https://www.linkedin.com/in/saadferozee/)  
 - 🌐 Portfolio (Coming Soon)
 
---- -->
-
-## 📈 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saadferozee&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
+-->
 
 <!--## 📊 Weekly Development Breakdown-->
 
