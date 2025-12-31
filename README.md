@@ -124,14 +124,14 @@ Git & GitHub:   █████████████░░░░░░░ 65%
 <div align="center">
 
 <!-- Row 1: Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="99%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 
 <!-- Row 2: Stats + Streak -->
 <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadferozee&show_icons=true&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
 
 <!-- Row 3: Top Languages + Most Used Repo -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=tokyonight" width="44.15%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=radical" width="44.15%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saadferozee&repo=Ticket_Kinen_app&theme=radical" width="54.35%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 
 </div>
