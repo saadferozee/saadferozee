@@ -54,18 +54,42 @@ And contribute to scalable, meaningful digital products.
 ## 🔧 Tech Stack
 
 - 🧱 HTML5, CSS3, Tailwind CSS
-- ⚙️ Python (Basic) and JavaScript (Intermediate)
+- ⏳ Node.JS, MongoDB
+- ⚙️ JavaScript and Python
 - 🛠️ Git & GitHub
-- 🖥️ Visual Studio Code, Chrome DevTools
+- 🖥️ Visual Studio Code, Figma, Chrome DevTools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+<p align="center">
+ <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+ <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+ <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
+ <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+ <img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
+ <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+ <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+ <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+ <img src="https://img.icons8.com/color/48/chrome.png" alt="Chrome DevTools"/>
+ <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+ <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+</p> 
+
+<!-- <p align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![ExpressJS](https://img.shields.io/badge/ExpressJS-333333?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
+  ![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+  ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
+  ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+
+</p> -->
+
+
 
 **Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I am continuously learning ...)_ </sub>
 
