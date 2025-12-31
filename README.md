@@ -1,4 +1,4 @@
-<img src="./assets/Ivory White Modern Minimalist Corporate Personal Profile LinkedIn Banner.pdf" width="100%" />
+<img src="./assets/Github Banner.png" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
