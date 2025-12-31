@@ -13,7 +13,26 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 I'm currently learning **Core Web Development** with [Programming Hero](https://www.programming-hero.com/), Batch 12.  
+I am an Web Developer.
+
+I work mainly with Next.js, React.js and JavaScript.
+I build modern, responsive web applications.
+Currently learning Next.js to build faster, SEO-friendly web applications, improve server-side rendering (SSR), and strengthen scalable frontend architecture.
+
+I strongly believe in clean code.
+Maintainable codebases.
+Clear file structure.
+Well-written documentation.
+
+I focus on readability, scalability, and performance.
+So other developers can easily understand and maintain the project.
+
+Beyond frontend, I have a strong interest in UI/UX, design systems, and app development.
+My goal is to grow as a strong Frontend Engineer.
+Then gradually expand into Full-Stack Development.
+And contribute to scalable, meaningful digital products.
+
+🎓 I just finish learnig about **Core Web Development** with [Programming Hero](https://www.programming-hero.com/), Batch 12.  
 🚀 I wish, my Web Development skill will be helpful for me to entering into various types of tech field.  
 📄 Thats why I started learning Web Development.  
 🧠 Always eager to learn new technologies and sharpen my skills.  
@@ -38,6 +57,15 @@
 - ⚙️ Python (Basic) and JavaScript (Intermediate)
 - 🛠️ Git & GitHub
 - 🖥️ Visual Studio Code, Chrome DevTools
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 **Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I am continuously learning ...)_ </sub>
 
@@ -66,21 +94,25 @@ Git & GitHub:   █████████████░░░░░░░ 65%
 | More Coming... | I'm actively learning and updating! |  |
 
 ---
- <img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" />
+ <!-- <img src="./assets/avatar.png" alt="Saad Ferozee Avatar" width="200" style="border-radius: 50%;" /> -->
 
 ## 📊 GitHub Stats
 <div align="center">
- 
-  <!-- Row 1: Contribution Graph -->
+
+<!-- Row 1: Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
- 
-  <!-- Row 2: Stats + Streak -->
-  <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="51%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADFEROZEE&show_icons=true&theme=radical" width="48%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
-  
-  <!-- Row 3: Top Languages + Most Used Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=tokyonight" width="38.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADFEROZEE&repo=PH_module_23&theme=radical" width="60%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+
+<!-- Row 2: Stats + Streak -->
+
+<div align="center">
+
+<!-- Row 2: Stats + Streak -->
+<img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadferozee&show_icons=true&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/>
+
+<!-- Row 3: Top Languages + Most Used Repo -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=tokyonight" width="44.15%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saadferozee&repo=Ticket_Kinen_app&theme=radical" width="54.35%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
 
 </div>
 
