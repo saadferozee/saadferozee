@@ -134,7 +134,8 @@ Git & GitHub:   █████████████████████�
 <!-- <div align="center"> -->
 
 <!-- Row 1: Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="99%" style="border-radius: 20px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADFEROZEE&theme=react-dark" width="100%" />
+
 
 <!-- Row 2: Stats + Streak -->
 <!-- <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> -->
