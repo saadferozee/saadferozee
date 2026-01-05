@@ -128,13 +128,13 @@ Git & GitHub:   █████████████████████�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=saadferozee&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=saadferozee&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
 </p>
 
 <!-- <div align="center"> -->
 
-<!-- Row 1: Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadferozee&theme=react-dark" width="100%" />
+<!-- Row 1: Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadferozee&theme=react-dark" width="100%" /> -->
 
 
 <!-- Row 2: Stats + Streak -->
