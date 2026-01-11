@@ -1,4 +1,4 @@
-<img src="./assets/Saad LinkedIn Banner 05.png" width="100%" />
+<img src="./assets/Saad GitHub Banner.png" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
