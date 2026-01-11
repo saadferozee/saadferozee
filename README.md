@@ -2,13 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saadferozee&color=blueviolet)
 
-
+<!--
 # I'm Saad Ferozee
 
 ---
 
  [📩 E-mail](mailto:saadferozee%2Bgithub@gmail.com) &nbsp; &nbsp; &nbsp;  [💼 LinkedIn](https://www.linkedin.com/in/saadferozee/) &nbsp; &nbsp; &nbsp; [__𝗳__ FaceBook](https://www.facebook.com/saadbinbulbulferozee/)
 
+-->
 ---
 
 ## 👨🏻‍💻 About Me
