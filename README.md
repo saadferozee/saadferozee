@@ -54,7 +54,7 @@ And contribute to scalable, meaningful digital products.
 
 ## 🔧 Tech Stack
 
-- 🧱 HTML5, CSS3, Tailwind CSS
+- 🧱 HTML5, CSS3, Tailwind CSS, shadcn
 - ⏳ Node.JS, MongoDB
 - ⚙️ JavaScript and Python
 - 🛠️ Git & GitHub
@@ -64,8 +64,10 @@ And contribute to scalable, meaningful digital products.
  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysUHnXbD4Ub7q1nanqKmvxj3aGYllAb6iGg&s" height='40' width='40' alt="ShadCn"/>
  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
+ <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.Js"/>
  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
