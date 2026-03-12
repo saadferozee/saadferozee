@@ -116,12 +116,13 @@ Git & GitHub:   █████████████████████�
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
-| E-Ticketing System Web App | Ticket buying and selling platform with admin-vendor functinalities | [Live Site](https://ticketkinen-app.web.app/) |
-| Pet Adoption with E-Commerce | Fully functional E-commerce website with database | [Live Site](https://adoption-web-by-saadferozee.web.app/) |
-| Pet Care Service Website | A online vet service booking website with private routing and login system | [Live Site](https://petcareshop-by-saadferozee.netlify.app/) |
-| Mock NGO Website | Basic functionalities in a website using Javascript | [Live Site](https://green-world-by-ferozee-ph-assignment-06.surge.sh/) |
-| E-Commerce Website | Basic layout and responsive web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_10/) |
-| Mock Portfolio | Basic layout of a Portfolio web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_05/) |
+| Web Solution Platform | IT Solution Farm's organizing tools with full managing | [Live Site](https://project-monochrome.vercel.app) |
+| E-Ticketing System Web App | Ticket buying and selling platform with admin-vendor functinalities | [Live Site](https://ticketkinen-app.web.app) |
+| Pet Adoption with E-Commerce | Fully functional E-commerce website with database | [Live Site](https://adoption-web-by-saadferozee.web.app) |
+| Pet Care Service Website | A online vet service booking website with private routing and login system | [Live Site](https://petcareshop-by-saadferozee.netlify.app) |
+| Mock NGO Website | Basic functionalities in a website using Javascript | [Live Site](https://green-world-by-ferozee-ph-assignment-06.surge.sh) |
+| E-Commerce Website | Basic layout and responsive web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_10) |
+| Mock Portfolio | Basic layout of a Portfolio web using HTML and CSS | [Live Site](https://saadferozee.github.io/PH_module_05) |
 | More Coming... | I'm actively learning and updating! |  |
 
 
