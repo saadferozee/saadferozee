@@ -61,11 +61,11 @@ And contribute to scalable, meaningful digital products.
 - 🖥️ Visual Studio Code, Figma, Chrome DevTools
 
 <p align="center">
+ <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+ <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysUHnXbD4Ub7q1nanqKmvxj3aGYllAb6iGg&s" height='40' width='40' alt="ShadCn"/>
- <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
  <img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>
  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.Js"/>
  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
@@ -97,10 +97,11 @@ And contribute to scalable, meaningful digital products.
 **Progress so far:** &nbsp; &nbsp;  <sub> _(Honestly 😌, but I am continuously learning ...)_ </sub>
 
 ```text
+JavaScript:     ██████████████████████████████████░░░░░░ 85%
+TypeScript:     ██████████████████░░░░░░░░░░░░░░░░░░░░░░ 45%
 HTML:           ██████████████████████████████████████░░ 95%
 CSS:            ██████████████████████████░░░░░░░░░░░░░░ 65%
 Tailwind:       ████████████████████████████████████░░░░ 90%
-JavaScript:     ██████████████████████████████████░░░░░░ 85%
 React:          ████████████████████████████████████░░░░ 90%
 ExpressJS:      ████████████████████████████████░░░░░░░░ 80%
 NextJS:         ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
